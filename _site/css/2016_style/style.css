@@ -57,7 +57,7 @@ body {
 
 p {
     line-height: 1.75;
-	font-size: 110%;
+    font-size: 110%;
 }
 
 p.large {
@@ -95,7 +95,7 @@ h6 {
 }
 
 h4 {
-	font-size: 120%;
+    font-size: 120%;
 }
 
 .img-centered {
@@ -346,7 +346,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/css/2016_style/img/header-bg.jpg');
+    background-image: url('/css/2016_style/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
