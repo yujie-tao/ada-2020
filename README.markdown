@@ -13,6 +13,6 @@
 1. Use command `jekyll build`
 
 
-## Instruction for Deployment
+## Deployment
 1. Go to `_site` folder and copy all the files
 2. Upload them to server over FTP
