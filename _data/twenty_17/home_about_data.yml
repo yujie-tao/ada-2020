@@ -1,35 +1,37 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
+  img: opening.png
+  name: Opening Plenary
+  info: Tuesday, October 13, 3:00-5:00pm CDT
+  link: With Ari Melenciano, Constanza Piña Pardo, Gabriella Johnson, Zainab Aliyu, Jingyi Li
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+  img: industry.png
+  name: Industry Panel
+  info: Wednesday, October 14, 3:00-5:0pm CDT
+  link: With Philippa Ngaju Makobore 
+
 
 - inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
+  img: arts.png
+  name: Art Panel
+  info: Thursday, October 15, 3:00-5:00pm CDT
+  link: With Ashlyn Sparrow, Snow Xu
 
 - inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
+  img: academia.png
+  name: Academia Panel
+  info:  Friday, October 15, 3:00-5:00pm CDT
+  link: With Ellen Yi-Luen Do
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+# - inverted: 
+#   img: icon-faq.jpeg
+#   name: FAQs
+#   info: Have a Question? Many answers can be found right here in our FAQs
+#   link: /faqs
+
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet

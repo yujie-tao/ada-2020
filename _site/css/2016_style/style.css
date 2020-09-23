@@ -31,7 +31,7 @@ body {
     min-height: 100%;
     width: 100%;
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Raleway';
     color: #00283c;
 }
 
@@ -80,7 +80,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #6ecf99;
+    color: #13558E;
 }
 
 h1,
@@ -90,8 +90,12 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
+}
+
+h2{
+    text-transform: none;
 }
 
 h4 {
@@ -119,7 +123,7 @@ aside.clients,
 .btn-primary {
     border-color: #149EAD;
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
     color: #fff;
     background-color: #149EAD;
@@ -132,7 +136,7 @@ aside.clients,
 .open .dropdown-toggle.btn-primary {
     border-color: #149EAD;
     color: #fff;
-    background-color: #6ecf99;
+    background-color: #13558E;
 }
 
 .btn-primary:active,
@@ -183,7 +187,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #149EAD;
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
 }
 
 .btn-sm:hover,
@@ -197,7 +201,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #149EAD;
     color: #fff;
-    background-color: #6ecf99;
+    background-color: #13558E;
 }
 
 .btn-sm:active,
@@ -262,7 +266,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #6ecf99;
+    color: #13558E;
 }
 
 .navbar-default .navbar-collapse {
@@ -284,8 +288,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: none;
+    font-family: Raleway;
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
@@ -306,7 +310,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #6ecf99;
+    background-color: #13558E;
 }
 
 @media(min-width:768px) {
@@ -353,6 +357,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.35);
 }
 
 header .intro-text {
@@ -362,16 +367,16 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
-    text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 10px;
+    text-transform: none;
+    font-family: Raleway;
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
@@ -384,17 +389,17 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+        margin-bottom: 40px;
+        font-family: Raleway;
         font-size: 40px;
-        font-style: italic;
+       /* font-style: italic;*/
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+     /*   margin-bottom: 50px;*/
+        text-transform: none;
+        font-family: Raleway;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
@@ -415,7 +420,7 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-size: 120%;
     font-style: italic;
     font-weight: 400;
@@ -452,7 +457,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    background: #13558E;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
@@ -497,7 +502,7 @@ section h3.section-subheading {
 /*
 #speakers .speakers-item .speakers-caption p {
     margin: 0;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-size: 100%;
     font-style: italic;
 }
@@ -574,11 +579,11 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
+/*    border: 7px solid #f1f1f1;*/
+/*    border-radius: 100%;*/
     text-align: center;
     color: #fff;
-    background-color: #149EAD;
+/*    background-color: #149EAD;*/
 }
 
 .timeline>li .timeline-image h4 {
@@ -751,28 +756,28 @@ section#contact .form-control:focus {
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-weight: 700;
     color: #bbb;
 }
@@ -793,7 +798,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     line-height: 40px;
 }
 
@@ -801,7 +806,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     line-height: 40px;
 }
 
@@ -858,7 +863,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: Raleway;
     font-size: 100%;
     font-style: italic;
 }
@@ -928,4 +933,18 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #149EAD;
 }
+
+/* Intro */
+.intro{
+    width: 80%;
+    margin:auto;
+}
+
+.intro-lead-host{
+    font-family: Raleway;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+
 

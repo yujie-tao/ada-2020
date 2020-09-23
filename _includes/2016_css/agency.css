@@ -24,7 +24,7 @@ body {
     min-height: 100%;
     width: 100%;
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Raleway';
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -85,6 +85,10 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
+}
+
+h2{
+    text-transform: none;
 }
 
 h4 {
@@ -277,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
@@ -346,6 +350,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.35);
 }
 
 header .intro-text {
@@ -357,13 +362,13 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
-    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     font-weight: 700;
@@ -377,16 +382,16 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 40px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
-        font-style: italic;
+       /* font-style: italic;*/
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: uppercase;
+     /*   margin-bottom: 50px;*/
+        text-transform: none;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
@@ -445,7 +450,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    background: #13558E;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
@@ -567,11 +572,11 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
+/*    border: 7px solid #f1f1f1;*/
+/*    border-radius: 100%;*/
     text-align: center;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+/*    background-color: #{{ site.data.template.color.primary }};*/
 }
 
 .timeline>li .timeline-image h4 {
@@ -921,3 +926,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+/* Intro */
+.intro{
+    width: 80%;
+    margin:auto;
+}
+
+.intro-lead-host{
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
