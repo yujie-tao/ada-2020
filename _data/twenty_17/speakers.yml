@@ -1,5 +1,6 @@
 - title: Ari Melenciano
   name: ari
+  pronoun: She/Her
   subtitle: Artist, Designer
   img: ari.png
   thumbnail: ari.png
@@ -11,6 +12,7 @@
 
 - title: Constanza Piña Pardo
   name: constanza
+  pronoun: She/Her
   subtitle: Artist, Dance Performer
   img: constanza.jpg
   thumbnail: constanza.jpg
@@ -21,6 +23,7 @@
 
 - title: Gabriella Johnson
   name: gabriella-3
+  pronoun: She/Her
   subtitle: Ph.D. student at CU Boulder
   img: gabriella.jpg
   thumbnail: gabriella.jpg
@@ -31,6 +34,7 @@
 
 - title: Zainab Aliyu
   name: zai
+  pronoun: She/Her
   subtitle: Cultural Worker, Designer
   img: zai.jpg
   thumbnail: zai.jpg
@@ -41,6 +45,7 @@
 
 - title: Jingyi Li
   name: jingyi
+  pronoun: They/Them
   subtitle: Ph.D. student at Stanford University
   img: jingyi.png
   thumbnail: jingyi.png
@@ -50,6 +55,7 @@
 
 - title: Philippa Ngaju Makobore 
   name: philippa
+  pronoun: She/Her
   subtitle: Department Head at UIRI
   img: philippa.jpg
   thumbnail: philippa.jpg
@@ -59,6 +65,7 @@
 
 - title: Ashlyn Sparrow 
   name: ashlyn
+  pronoun: She/Her
   subtitle: Designer
   img: ashlyn.jpg
   thumbnail: ashlyn.jpg
@@ -68,6 +75,7 @@
 
 - title: Snow Xu
   name: snow
+  pronoun: She/Her
   subtitle: Artist
   img: snow.jpg
   thumbnail: snow.jpg
@@ -79,6 +87,7 @@
 
 - title: Ellen Yi-Luen Do
   name: ellen
+  pronoun: She/Her
   subtitle: Professor at CU Boulder
   img: ellen.jpg
   thumbnail: ellen.jpg
@@ -89,6 +98,7 @@
 
 - title: Elizabeth Koprucki
   name: elizabeth
+  pronoun: She/Her
   subtitle: Assistant Director at Fab Lab and Design
   img: elizabeth.jpg
   thumbnail: elizabeth.jpg
