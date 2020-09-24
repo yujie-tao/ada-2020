@@ -719,6 +719,7 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
+    margin-bottom: 10px;
 }
 
 section#contact {
@@ -934,7 +935,7 @@ body {
     webkit-tap-highlight-color: #149EAD;
 }
 
-/* Intro */
+/* Custom */
 .intro{
     width: 80%;
     margin:auto;
@@ -946,5 +947,8 @@ body {
     margin-bottom: 20px;
 }
 
+.name{
+    text-align: center;
+}
 
 
