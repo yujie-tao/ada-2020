@@ -1,4 +1,7 @@
 # Ada Lovelace Week Website
+2020 Ada Lovelace Week Hosted by Human Computer Integration Lab at University of Chicago. 
+
+[website](http://ada2020.cs.uchicago.edu)
 
 ## Initialization
 1. Install Ruby and NodeJS.
