@@ -1,6 +1,7 @@
 - title: Ari Melenciano
   name: ari
   pronoun: She/Her
+  website: https://www.ariciano.com/ 
   subtitle: Artist, Designer
   img: ari.png
   thumbnail: ari.png
@@ -13,6 +14,7 @@
 - title: Constanza Piña Pardo
   name: constanza
   pronoun: She/Her
+  website: https://corazonderobota.wordpress.com/
   subtitle: Artist, Dance Performer
   img: constanza.jpg
   thumbnail: constanza.jpg
@@ -24,6 +26,7 @@
 - title: Gabriella Johnson
   name: gabriella-3
   pronoun: She/Her
+  website: http://gabriellamjohnson.com/
   subtitle: Ph.D. student at CU Boulder
   img: gabriella.jpg
   thumbnail: gabriella.jpg
@@ -35,6 +38,7 @@
 - title: Zainab Aliyu
   name: zai
   pronoun: She/Her
+  website: https://zai.zone/
   subtitle: Cultural Worker, Designer
   img: zai.jpg
   thumbnail: zai.jpg
@@ -46,6 +50,7 @@
 - title: Jingyi Li
   name: jingyi
   pronoun: They/Them
+  website: http://jingyi.me/
   subtitle: Ph.D. student at Stanford University
   img: jingyi.png
   thumbnail: jingyi.png
@@ -56,6 +61,7 @@
 - title: Philippa Ngaju Makobore 
   name: philippa
   pronoun: She/Her
+  website:  https://twitter.com/Pippa_Mak 
   subtitle: Department Head at UIRI
   img: philippa.jpg
   thumbnail: philippa.jpg
@@ -66,6 +72,7 @@
 - title: Ashlyn Sparrow 
   name: ashlyn
   pronoun: She/Her
+  website: https://ashlynsparrow.com
   subtitle: Designer
   img: ashlyn.jpg
   thumbnail: ashlyn.jpg
@@ -76,6 +83,7 @@
 - title: Snow Xu
   name: snow
   pronoun: She/Her
+  website: https://snowxushinuo.com
   subtitle: Artist
   img: snow.jpg
   thumbnail: snow.jpg
@@ -88,6 +96,7 @@
 - title: Ellen Yi-Luen Do
   name: ellen
   pronoun: She/Her
+  website:  https://www.colorado.edu/atlas/ellen-yi-luen-do
   subtitle: Professor at CU Boulder
   img: ellen.jpg
   thumbnail: ellen.jpg
@@ -99,6 +108,7 @@
 - title: Elizabeth Koprucki
   name: elizabeth
   pronoun: She/Her
+  website: https://twitter.com/ekoprucki?lang=en
   subtitle: Assistant Director at Fab Lab and Design
   img: elizabeth.jpg
   thumbnail: elizabeth.jpg
