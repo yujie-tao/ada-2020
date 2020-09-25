@@ -45,6 +45,13 @@ body {
   body {
       padding-bottom: 150px;
   }
+
+  aside.clients img {
+    margin: 50px auto;
+    margin-bottom: 10px;
+    width: 30%;
+  }
+
 }
 
 .text-muted {
@@ -949,6 +956,14 @@ body {
 
 .name{
     text-align: center;
+}
+
+.pronoun{
+    margin-top: 2px;
+}
+
+.portfolio-link img{
+    widows: 30%;
 }
 
 

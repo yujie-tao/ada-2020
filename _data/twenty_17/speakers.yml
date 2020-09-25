@@ -1,5 +1,7 @@
 - title: Ari Melenciano
   name: ari
+  pronoun: She/Her
+  website: https://www.ariciano.com/ 
   subtitle: Artist, Designer
   img: ari.png
   thumbnail: ari.png
@@ -9,6 +11,8 @@
   
 - title: Constanza Piña Pardo
   name: constanza
+  pronoun: She/Her
+  website: https://corazonderobota.wordpress.com/
   subtitle: Artist, Dance Performer
   img: constanza.jpg
   thumbnail: constanza.jpg
@@ -19,6 +23,8 @@
 
 - title: Gabriella Johnson
   name: gabriella-3
+  pronoun: She/Her
+  website: http://gabriellamjohnson.com/
   subtitle: Ph.D. student at CU Boulder
   img: gabriella.jpg
   thumbnail: gabriella.jpg
@@ -29,6 +35,8 @@
 
 - title: Zainab Aliyu
   name: zai
+  pronoun: She/Her
+  website: https://zai.zone/
   subtitle: Cultural Worker, Designer
   img: zai.jpg
   thumbnail: zai.jpg
@@ -39,6 +47,8 @@
 
 - title: Jingyi Li
   name: jingyi
+  pronoun: They/Them
+  website: http://jingyi.me/
   subtitle: Ph.D. student at Stanford University
   img: jingyi.png
   thumbnail: jingyi.png
@@ -48,6 +58,8 @@
 
 - title: Philippa Ngaju Makobore 
   name: philippa
+  pronoun: She/Her
+  website:  https://twitter.com/Pippa_Mak 
   subtitle: Department Head at UIRI
   img: philippa.jpg
   thumbnail: philippa.jpg
@@ -57,6 +69,8 @@
 
 - title: Ashlyn Sparrow 
   name: ashlyn
+  pronoun: She/Her
+  website: https://ashlynsparrow.com
   subtitle: Designer
   img: ashlyn.jpg
   thumbnail: ashlyn.jpg
@@ -66,6 +80,8 @@
 
 - title: Snow Xu
   name: snow
+  pronoun: She/Her
+  website: https://snowxushinuo.com
   subtitle: Artist
   img: snow.jpg
   thumbnail: snow.jpg
@@ -77,6 +93,8 @@
 
 - title: Ellen Yi-Luen Do
   name: ellen
+  pronoun: She/Her
+  website:  https://www.colorado.edu/atlas/ellen-yi-luen-do
   subtitle: Professor at CU Boulder
   img: ellen.jpg
   thumbnail: ellen.jpg
@@ -87,10 +105,24 @@
 
 - title: Elizabeth Koprucki
   name: elizabeth
+  pronoun: She/Her
+  website: https://twitter.com/ekoprucki?lang=en
   subtitle: Assistant Director at Fab Lab and Design
   img: elizabeth.jpg
   thumbnail: elizabeth.jpg
   alt: Picture of TBD
   topic: Speaker at Industry Panel
   description: Elizabeth Koprucki serves as the assistant director, Fab Lab and design at the University of Chicago’s Polsky Center for Entrepreneurship and Innovation. She manages the Polsky Center’s Fab Lab where she mentors entrepreneurs and researchers through the prototyping process. She oversees the Fab Lab’s programming and staffing and connects Polsky Exchange members with resources on campus and across Chicago. 
+
+- title: Marshini Chetty
+  name: Marshini
+  pronoun: She/Her
+  website: https://www.marshini.net/ 
+  subtitle: Assistant Professor at University of Chicago 
+  img: marshini.jpg
+  thumbnail: marshini.jpg
+  alt: Picture of Marshini Chetty
+  topic: Speaker at Academia Panel
+  description: Marshini Chetty is an assistant professor in the department of Computer Science at the University of Chicago where she directs the Amyoli Internet Research Lab or AIR lab for short. Prior to this position, she was a research scholar in the Department of Computer Science at Princeton University where she directed the Princeton Human Computer Interaction Laboratory. She was an assistant professor at the College of Information Studies at the University of Maryland, College Park where she directed the NetCHI laboratory. In the past, she also completed two post-doctoral research fellowships at ResearchICTAfrica in Cape Town, South Africa and with Prof. W. Keith Edwards at the College of Computing at  Georgia Institute of Technology. She received her Ph.D. in Human-Centered Computing from Georgia Institute of Technology where she was advised by Prof. Rebecca E. Grinter. She started her journey in the USA after she completed her MSc., BSc.(Hons), and BSc. in Computer Science at the University of Cape Town, South Africa (her beautiful home country).
+
 
