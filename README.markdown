@@ -1,5 +1,5 @@
 # Ada Lovelace Week Website
-2020 Ada Lovelace Week hosted by Human Computer Integration Lab at University of Chicago. 
+2020 Ada Lovelace Week is hosted by Human Computer Integration Lab at University of Chicago. 
 
 [website](http://ada2020.cs.uchicago.edu)
 
