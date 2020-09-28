@@ -42,7 +42,7 @@ body {
   aside.clients img {
     margin: 50px auto;
     margin-bottom: 10px;
-    width: 30%;
+    width: 50%;
   }
 
 }
@@ -959,6 +959,12 @@ body {
     widows: 30%;
 }
 
-.sponsors{
-    margin-top: 70px;
+#sponsors{
+    background-color: white;
 }
+
+.sponsors .row{
+    margin-bottom: 80px;
+}
+
+
