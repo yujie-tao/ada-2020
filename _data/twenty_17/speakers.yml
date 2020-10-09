@@ -32,16 +32,16 @@
   description: I was born and raised in San Antonio, Texas (proud Texan!). Now living in the beautiful Boulder, Colorado! I graduated from the University of Texas at San Antonio with my Bachelor of Science in Computer Science and a minor in Mathematics. Currently, I am a Ph.D. student in the Superhuman Computing Lab at the University of Colorado Boulder, under the advisement of Shaun Kane, focusing on research in Human Computer Interaction with a specialization in accessibility and assistive technologies. The majority of my research focuses on fairness, equality, and independence in the area of accessibility. Specifically, I want to dive into how we can empower children to be independent and provide them with tools to be successful academically, focusing on literacy skills.
 
 
-- title: Zainab Aliyu
-  name: zai
-  pronoun: She/Her
-  website: https://zai.zone/
-  subtitle: Cultural Worker, Designer
-  img: zai.jpg
-  thumbnail: zai.jpg
-  alt: Picture of TBD
-  topic: Speaker at Opening Plenary
-  description: Zainab Aliyu ("Zai") is a Nigerian-American cultural worker, designer and artist based in New York. Her transdisciplinary practice interrogates the cybernetic and temporal entanglement embedded within societal dynamics to reveal that not only are all sociotechnological systems of hegemony interconnected, but that we are all implicated through time. She seeks to use counternarrative interventions and infrastructures of care to catalyze resilience, resistance and radical hope within her communities.
+# - title: Zainab Aliyu
+#   name: zai
+#   pronoun: She/Her
+#   website: https://zai.zone/
+#   subtitle: Cultural Worker, Designer
+#   img: zai.jpg
+#   thumbnail: zai.jpg
+#   alt: Picture of TBD
+#   topic: Speaker at Opening Plenary
+#   description: Zainab Aliyu ("Zai") is a Nigerian-American cultural worker, designer and artist based in New York. Her transdisciplinary practice interrogates the cybernetic and temporal entanglement embedded within societal dynamics to reveal that not only are all sociotechnological systems of hegemony interconnected, but that we are all implicated through time. She seeks to use counternarrative interventions and infrastructures of care to catalyze resilience, resistance and radical hope within her communities.
 
 
 - title: Jingyi Li

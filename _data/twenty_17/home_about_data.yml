@@ -2,23 +2,26 @@
   img: opening.png
   name: Opening Plenary
   info: Tuesday, October 13, 3:00-5:00pm CDT
-  link: We are proud to kickstart our event with 5 short keynotes from Ari Melenciano, Constanza Piña Pardo, Gabriella Johnson, Zainab Aliyu, and Jingyi Li.
+  link: We are proud to kickstart our event with four short keynotes from Ari Melenciano, Constanza Piña Pardo, Gabriella Johnson, and Jingyi Li.
+  youtube: https://www.youtube.com/watch?v=Iz42r0m1icU&feature=youtu.be
 
 - inverted: timeline-inverted
   img: industry.png
   name: Industry Panel
   info: Wednesday, October 14, 3:00-4:0pm CDT
   link: Our second day features an industry panel with Philippa Ngaju Makobore and Elizabeth Koprucki, focusing on the experiences and contributions of those that shape the future technologies we will see next.
+  youtube: https://www.youtube.com/watch?v=kmQNURYHnoA&feature=youtu.be
 
 - inverted: 
   img: arts.png
   name: Art Panel
   info: Thursday, October 15, 3:00-4:00pm CDT
   link: Our third day features an art panel with Ashlyn Sparrow and Snow Xu, focusing on how computing allows new art forms to emerge.
-
-
+  youtube: https://www.youtube.com/watch?v=MpLgVTQvTt0&feature=youtu.be
+  
 - inverted: timeline-inverted
   img: academia.png
   name: Academia Panel
   info:  Friday, October 16, 3:00-4:00pm CDT
   link: The closing day features an academia panel with Marshini Chetty and Ellen Yi-Luen Do, focusing on the impact and trajectory of scholars in the field of human computer interaction.
+  youtube: https://www.youtube.com/watch?v=1zNC77ylr_E&feature=youtu.be
